@@ -28,3 +28,12 @@ You can use [this](http://i.imgur.com/y7Fnvhq.png) image for reference.
 
 ##Usage
 Import the class by importing MFRC522 in the top of your script. For more info see the examples.
+
+--------------------------------------------------------------------------------------------------------------------------------
+to use the keyboard insert in the project, you'll need install the xautomation 
+
+to install the xautomation , run the code : 
+
+$ sudo apt-get install xautomation -y
+
+
